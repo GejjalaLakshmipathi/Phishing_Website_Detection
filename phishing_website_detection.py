@@ -1,5 +1,5 @@
 import streamlit as st
-import machine_learning as ml
+import machinelearning as ml
 import feature_extraction as fe
 from bs4 import BeautifulSoup
 import requests as re
